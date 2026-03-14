@@ -443,6 +443,7 @@ body.dark .project-box {
     height: 380px;
     border-radius: 55% 45% 55% 45%;
     overflow: hidden;
+    background: #fff; /* white background */
     animation: imgFloat 7s ease-in-out infinite;
 }
 .image img{
